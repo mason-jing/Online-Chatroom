@@ -1,0 +1,11 @@
+body {
+    width: 100vw;
+    height: 100vh;
+
+    background: url("../images/K-ON.jpg") center / cover;
+
+    /*background-color: aquamarine;*/
+    /*background-image: url("../images/K-ON.jpg");*/
+    /*background-position: center;*/
+    /*background-size: cover;*/
+}
